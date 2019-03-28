@@ -9,11 +9,13 @@ Computational Biology and Population Genomics - CoBiG2, working on the viability
 cE3c:
 
  http://ce3c.ciencias.ulisboa.pt/index.php
+ 
  http://ce3c.ciencias.ulisboa.pt/team/CoBiG2
 
 BEAST:
 
   http://beast.community/
+  
   https://taming-the-beast.org/tutorials/StarBeast-Tutorial/
   
   
