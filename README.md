@@ -1,8 +1,8 @@
-# StarBeast
+# BEAST2 & StarBEAST2
 
 
 Intership at the Centre for Ecology, Evolution and Environmental Changes (cE3c) of the University of Lisbon - 
-Computational Biology and Population Genomics - CoBiG2, working on the viability of *Beast compared to Beast-MCMC Software analysis.
+Computational Biology and Population Genomics - CoBiG2, working on the viability of *Beast compared with Beast-MCMC Software analysis.
 
 
 
